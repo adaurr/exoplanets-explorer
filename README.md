@@ -1,6 +1,6 @@
-# Project name
+# exoplanets-explorer
 
-> One sentence: the question this project answers.
+> What do the known exoplanets tell us? Cleaning, clustering and modelling NASA data, with an interactive dashboard.
 
 ## Question
 
